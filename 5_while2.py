@@ -21,7 +21,7 @@ def ask_user(answers_dict):
     """
     Замените pass на ваш код
     """
-    pass
+    print("Привет, эта программа даст тебе ответ на вопросы")
     
 if __name__ == "__main__":
     ask_user(questions_and_answers)
